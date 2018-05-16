@@ -1,6 +1,6 @@
-s=str(raw_input())
+n=str(raw_input())
 
-if (s>'a' and s<'z')or (s>'A' and s<'z'):
+if (n>'a' and n<'z')or (n>'A' and n<'z'):
  
    print('yes')
 
